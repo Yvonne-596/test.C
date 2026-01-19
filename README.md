@@ -1,4 +1,4 @@
-我将为您设计和实现一个完整的黄金交易软件，采用**C# WinUI 3 + 现代前端 + Java后端服务**的混合架构，实现真正的Windows原生体验。以下是完整的实现方案：
+以下是完整的实现方案：
 
 ## 📁 项目架构概览
 
@@ -1122,7 +1122,7 @@ Write-Host "安装文件位于: $installerDir" -ForegroundColor Yellow
    - 自动CSV备份
    - Excel导出功能
 
-这个完整方案实现了您要求的：
+这个完整方案实现了：
 - ✅ Windows原生体验（类似Adobe Acrobat）
 - ✅ 完整的黄金交易功能
 - ✅ 现代化的可视化界面
